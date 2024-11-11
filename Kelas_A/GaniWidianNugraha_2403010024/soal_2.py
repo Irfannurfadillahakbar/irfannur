@@ -1,3 +1,5 @@
+#GANI WIDIAN NUGRAHA
+#2403010024
 #Buatlah program yang mengonversi suhu dari Celcius ke Fahrenheit.
 # Program untuk mengonversi suhu dari Celcius ke Fahrenheit
 

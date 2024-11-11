@@ -1,3 +1,5 @@
+#GANI WIDIAN NUGRAHA
+#2403010024
 #Buatlah program yang meminta pengguna untuk memasukkan sebuah kalimat,
 # lalu menghitung dan menampilkan jumlah huruf vokal (a, e, i, o, u) di dalam kalimat tersebut.
 

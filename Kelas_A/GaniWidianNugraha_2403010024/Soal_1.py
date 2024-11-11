@@ -1,3 +1,5 @@
+#GANI WIDIAN NUGRAHA
+#2403010024
 #Buatlah program yang meminta pengguna untuk memasukkan panjang dan lebar suatu persegi panjang.
 # Program harus menghitung dan menampilkan luas dan keliling dari persegi panjang tersebut.
 

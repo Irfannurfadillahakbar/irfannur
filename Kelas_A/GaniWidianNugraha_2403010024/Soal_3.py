@@ -1,3 +1,5 @@
+#GANI WIDIAN NUGRAHA
+#2403010024
 #buatlah program yang meminta pengguna untuk memasukkan dua kata,
 # lalu menggabungkan kedua kata tersebut menjadi satu string baru tanpa spasi.
 

@@ -1,3 +1,5 @@
+#GANI WIDIAN NUGRAHA
+#2403010024
 #Buatlah program yang meminta pengguna memasukkan sebuah kata dan dua bilangan bulat, yaitu indeks awal dan indeks akhir.
 # Program harus mengeluarkan substring dari kata tersebut berdasarkan indeks awal dan akhir yang diberikan.
 
