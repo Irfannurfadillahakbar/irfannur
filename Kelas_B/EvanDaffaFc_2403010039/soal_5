@@ -1,0 +1,14 @@
+# Meminta pengguna memasukkan kata
+kata = input("Masukkan sebuah kata: ")
+
+# Meminta pengguna memasukkan indeks awal dan akhir
+indeks_awal = int(input("Masukkan indeks awal: "))
+indeks_akhir = int(input("Masukkan indeks akhir: "))
+
+# Mengecek apakah indeks valid
+if 0 <= indeks_awal < indeks_akhir <= len(kata):
+    # Mengambil substring berdasarkan indeks awal dan akhir
+    substring = kata[indeks_awal:indeks_akhir]
+    print("Substring yang dihasilkan:", substring)
+else:
+    print("Indeks tidak valid.")

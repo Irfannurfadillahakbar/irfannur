@@ -1,0 +1,9 @@
+# Meminta pengguna untuk memasukkan dua kata
+kata1 = input("Masukkan kata pertama: ")
+kata2 = input("Masukkan kata kedua: ")
+
+# Menggabungkan kedua kata tanpa spasi
+gabungan = kata1 + kata2
+
+# Menampilkan hasil gabungan
+print("Hasil gabungan: " + gabungan)
