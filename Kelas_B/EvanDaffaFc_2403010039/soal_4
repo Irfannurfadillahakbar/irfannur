@@ -1,0 +1,16 @@
+# Meminta input dari pengguna
+kalimat = input("Masukkan sebuah kalimat: ")
+
+# Inisialisasi variabel untuk menghitung jumlah vokal
+jumlah_vokal = 0
+
+# Daftar huruf vokal
+vokal = "aeiouAEIOU"
+
+# Menelusuri setiap karakter dalam kalimat
+for char in kalimat:
+    if char in vokal:
+        jumlah_vokal += 1
+
+# Menampilkan hasil jumlah vokal
+print(f"Jumlah huruf vokal dalam kalimat: {jumlah_vokal}")
