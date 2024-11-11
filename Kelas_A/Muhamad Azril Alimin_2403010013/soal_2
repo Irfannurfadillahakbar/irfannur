@@ -1,0 +1,11 @@
+#Muhamad Azril Alimin 2403010013
+#Konversi Suhu Celcius ke Fahrenheit
+
+#Memasukan nilai celcius
+celcius = float(input("Masukkan suhu Celcius: "))
+
+#Mengkonversi suhu celcius ke fahrenheit
+fahrenheit = (celcius * 9/5) + 32
+
+#Menampilkan hasil Konversi Suhu Celcius ke Fahrenheit
+print(f"Suhu Fahrenheit: {fahrenheit}")

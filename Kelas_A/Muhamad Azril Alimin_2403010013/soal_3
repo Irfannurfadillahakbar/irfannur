@@ -1,0 +1,12 @@
+#Muhamad Azril Alimin 2403010013
+#Menggabungkan Dua Kata Tanpa Spasi
+
+#Memasukan kata pertama dan kata kedua
+Kata_Pertama = input("Memasukan kata pertama: ")
+Kata_Kedua = input("Memasukan Kata Kedua: ")
+
+#Menggabungkan Kedua Kata Tanpa Spasi
+Gabungan = Kata_Pertama + Kata_Kedua
+
+#Menampilkan Hasil Gabungan Kedua Kata tanpa spasi
+print (f"Hasil Gabungan Kedua Kata: {Gabungan}")

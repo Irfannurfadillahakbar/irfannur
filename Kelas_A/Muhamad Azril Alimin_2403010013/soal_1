@@ -1,0 +1,14 @@
+#Muhamad Azril Alimin 2403010013
+#Menghitung Luas dan Keliling Persegi Panjang
+
+# Memasukan Nilai Panjang dan Lebar Persegi Panjang
+panjang = float(input("Nilai panjang: "))
+lebar = float(input("Nilai lebar: "))
+
+#Menghitung luas dan Keliling persegi panjang
+luas = panjang * lebar
+keliling = 2 * (panjang + lebar)
+
+#Hasil dari luas dan Keliling
+print(f"Luas persegi panjang: {luas}")
+print(f"Keliling persegi panjang: {keliling}")

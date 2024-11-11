@@ -1,0 +1,13 @@
+#Muhamad Azril Alimin 2403010013
+
+#Memotong Substring dari Sebuah Kata
+#Memasukan kata, indeks awal dan indeks akhir
+kata = input("Masukan Kata: ")
+indeks_awal = int(input("Masukan indeks awal: "))
+indeks_akhir = int(input("Masukan indeks akhir: "))
+                                     
+#Memotong Substring kata Menggunakan Slicing
+substring = kata[indeks_awal:indeks_akhir]
+
+#Menampilkan Hasil substring
+print(f"Substring dari indeks{indeks_awal} hingga {indeks_akhir} adalah; {substring}")
