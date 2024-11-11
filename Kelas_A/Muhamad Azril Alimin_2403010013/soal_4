@@ -1,0 +1,14 @@
+#Muhamad Azril Alimin 2403010013
+#Menghitung Jumlah Huruf Vokal dalam kalimat
+
+#Memasukan sebuah kalimat
+kalimat = input("Masukan kalimat: ")
+
+#Menentukan Huruf Vokal
+vokal = "aiueo"
+
+#Menghitung jumlah huruf vokal di dalam kalimat
+jumlah_vokal= sum(1 for char in kalimat if char in vokal)
+
+#Menampilkan Hasil Menghitung Jumlah Huruf Vokal di dalam kalimat yang di masukan
+print("Jumlah huruf vokal dalam kalimat:", jumlah_vokal)
