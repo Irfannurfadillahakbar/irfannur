@@ -5,4 +5,4 @@
 kalimat1 = input("Masukkan string pertama: ")
 kalimat2 = input("Masukkan string kedua: ")
             
-print(kalimat1 + " " + kalimat2)    
+print(kalimat1 +  kalimat2)    

@@ -5,6 +5,6 @@
 
 suhu_celcius = input("Masukkan suhu dalam suhu_celcius: ")
 
-suhu_fahrenheit = float(suhu_celcius) * 1.8 + 32
+suhu_fahrenheit = float(suhu_celcius) * 9/5 + 32
 
 print("Suhu dalam fahrenheit: ", suhu_fahrenheit)
