@@ -1,6 +1,7 @@
-# Fatha Mufti Fadlillah
+# Fathan Mufti Fadlillah
 # NIM: 2403010012
 # KELAS A
+
 # Program untuk Memotong Substring dari Sebuah Kata
 
 # Meminta pengguna untuk memasukkan sebuah kata

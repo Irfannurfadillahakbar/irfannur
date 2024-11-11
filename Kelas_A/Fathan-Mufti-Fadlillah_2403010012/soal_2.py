@@ -1,4 +1,4 @@
-# Fatha Mufti Fadlillah
+# Fathan Mufti Fadlillah
 # NIM: 2403010012
 # KELAS A
 
