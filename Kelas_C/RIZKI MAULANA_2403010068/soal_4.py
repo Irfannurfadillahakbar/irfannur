@@ -14,4 +14,4 @@ print("Nama Lengkap Anda ::"+" "+depan,belakang)
 lengkap = depan + belakang
 
 print(len(lengkap))
-print(lengkap.find("a"))
+print(lengkap.find("a"+"u"+"i"+"e"+"o"))
