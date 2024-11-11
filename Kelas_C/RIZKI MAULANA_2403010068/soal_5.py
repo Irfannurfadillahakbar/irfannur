@@ -2,15 +2,15 @@
 # Nim : 2403010068
 #  Menmotong kta
 
-depan = input("Masukkan Nama Depan Nada : ")
-belakang = input("Masukan Nama Belakang Anda :")
+
+kata = input("Masukkan kata: ")
 
 
+indeks_awal = int(input("Masukkan indeks awal: ")) 
+indeks_akhir = int(input("Masukkan indeks akhir: "))
 
 
-print("Nama Lengkap Anda ::"+" "+depan,belakang)
+substring = kata[indeks_awal:indeks_akhir]
 
-lengkap = depan + belakang
 
-substring = lengkap[2:6]  
-print(substring)
+print("Substring:", substring)
